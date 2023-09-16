@@ -1,0 +1,12 @@
+main {
+    background-color: #dddddd;
+    text-align: center;
+}
+
+section{
+    display: -webkit-flex;
+    display: flex;
+}
+
+
+

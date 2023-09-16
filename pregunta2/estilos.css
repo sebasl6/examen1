@@ -1,0 +1,64 @@
+main{
+
+    margin:0%;
+    padding: 0%;
+}
+
+header{
+    height: 100px;
+    display: flex;
+}
+.menuCabecera {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-top: 50px;
+}
+
+.menuCabecera li {
+    list-style-type: none;
+    margin-right: 4rem;
+    text-transform: capitalize;
+    font-family: Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    white-space: nowrap;
+    font-size: 20px; 
+}
+section{
+    background-image: url(01.jpeg);
+    height: 600px;
+    background-size: 100%;
+}
+
+h6{
+    font-size:  15px;
+    color: white;
+    width: 500px;
+    margin-left:50px;
+    font-weight: lighter;
+    font-family: Arial, sans-serif
+}
+
+h2{
+    font-size: 30px;
+    color: white;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-weight: lighter;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    margin-left: 50px;
+    background-color: white;
+    border-color: white;
+    border-width: 1px;
+    padding: 5px;
+    border: 0;
+    box-shadow: none;
+    color: black;
+
+}
+
+
